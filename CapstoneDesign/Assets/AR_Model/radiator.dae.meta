@@ -1,0 +1,152 @@
+fileFormatVersion: 2
+guid: e30807f2c491d8149b953058f09d71f7
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Component_2
+    100002: Component_2 1
+    100004: Component_2 2
+    100006: Component_2 3
+    100008: Component_2 4
+    100010: Component_2 5
+    100012: Component_2 6
+    100014: Component_2 7
+    100016: Component_2 8
+    100018: Component_4
+    100020: Component_5
+    100022: Electric_unit_heaters
+    100024: ID16
+    100026: ID29
+    100028: ID39
+    100030: ID47
+    100032: instance_0
+    100034: instance_1
+    100036: instance_10
+    100038: instance_11
+    100040: instance_2
+    100042: instance_3
+    100044: instance_4
+    100046: instance_5
+    100048: instance_6
+    100050: instance_7
+    100052: instance_8
+    100054: instance_9
+    100056: //RootNode
+    400000: Component_2
+    400002: Component_2 1
+    400004: Component_2 2
+    400006: Component_2 3
+    400008: Component_2 4
+    400010: Component_2 5
+    400012: Component_2 6
+    400014: Component_2 7
+    400016: Component_2 8
+    400018: Component_4
+    400020: Component_5
+    400022: Electric_unit_heaters
+    400024: ID16
+    400026: ID29
+    400028: ID39
+    400030: ID47
+    400032: instance_0
+    400034: instance_1
+    400036: instance_10
+    400038: instance_11
+    400040: instance_2
+    400042: instance_3
+    400044: instance_4
+    400046: instance_5
+    400048: instance_6
+    400050: instance_7
+    400052: instance_8
+    400054: instance_9
+    400056: //RootNode
+    2300000: Component_2
+    2300002: Component_2 1
+    2300004: Component_2 2
+    2300006: Component_2 3
+    2300008: Component_2 4
+    2300010: Component_2 5
+    2300012: Component_2 6
+    2300014: Component_2 7
+    2300016: Component_2 8
+    2300018: Component_4
+    2300020: ID16
+    2300022: ID29
+    2300024: ID39
+    2300026: ID47
+    3300000: Component_2
+    3300002: Component_2 1
+    3300004: Component_2 2
+    3300006: Component_2 3
+    3300008: Component_2 4
+    3300010: Component_2 5
+    3300012: Component_2 6
+    3300014: Component_2 7
+    3300016: Component_2 8
+    3300018: Component_4
+    3300020: ID16
+    3300022: ID29
+    3300024: ID39
+    3300026: ID47
+    4300000: Component_4
+    4300002: ID16
+    4300004: ID29
+    4300006: ID39
+    4300008: ID47
+    4300010: Component_2
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

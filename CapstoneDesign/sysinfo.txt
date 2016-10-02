@@ -1,0 +1,136 @@
+System:
+  OS: Windows 7 Service Pack 1 (6.1.7601)
+  CPU: Intel(R) Core(TM)2 Quad CPU Q6600 @ 2.40GHz, count: 4
+  Physical RAM: 3328 MB
+  Addressable RAM: 2048 MB
+
+D3D9:
+  Renderer: NVIDIA GeForce 8500 GT (Microsoft Corporation - WDDM v1.1)
+  VendorID: 10de
+  Driver: nvd3dum.dll 8.15.11.8593
+  VRAM: 1202 (via DXGI)
+
+OpenGL:
+  Version: 1.1.0
+  Vendor: Microsoft Corporation
+  Renderer: GDI Generic
+  Driver: RDPDD, version 4456530.4456528.68.50331651
+  VRAM: 1202 (via DXGI)
+  Extensions: GL_WIN_swap_hint GL_EXT_bgra GL_EXT_paletted_texture
+
+User locale: ko-KR
+System locale: ko-KR
+
+Running processes:
+taskhost.exe (2332)
+    path: C:\Windows\system32\taskhost.exe
+    company:  Microsoft Corporation
+    product:  Microsoft® Windows® Operating System
+    filedesc: Windows 작업을 위한 호스트 프로세스
+    filever:  6.1.7601.18010
+    prodver:  6.1.7601.18010
+Dwm.exe (2424)
+    path: C:\Windows\system32\Dwm.exe
+    company:  Microsoft Corporation
+    product:  Microsoft® Windows® Operating System
+    filedesc: 데스크톱 창 관리자
+    filever:  6.1.7600.16385
+    prodver:  6.1.7600.16385
+Explorer.EXE (2600)
+    path: C:\Windows\Explorer.EXE
+    company:  Microsoft Corporation
+    product:  Microsoft® Windows® Operating System
+    filedesc: Windows 탐색기
+    filever:  6.1.7601.17567
+    prodver:  6.1.7601.17567
+KakaoTalk.exe (2944)
+    path: C:\Program Files\Kakao\KakaoTalk\KakaoTalk.exe
+    company:  Daum Kakao Corp. 
+    product:  KakaoTalk
+    filedesc: KakaoTalk
+    filever:  2.0.5.822
+    prodver:  2.0.5.822
+StikyNot.exe (2980)
+    path: C:\Windows\System32\StikyNot.exe
+    company:  Microsoft Corporation
+    product:  Microsoft® Windows® Operating System
+    filedesc: 스티커 메모
+    filever:  6.1.7600.16385
+    prodver:  6.1.7600.16385
+chrome.exe (3328)
+    path: C:\Program Files\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  42.0.2311.152
+    prodver:  42.0.2311.152
+chrome.exe (3528)
+    path: C:\Program Files\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  42.0.2311.152
+    prodver:  42.0.2311.152
+chrome.exe (3852)
+    path: C:\Program Files\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  42.0.2311.152
+    prodver:  42.0.2311.152
+chrome.exe (3916)
+    path: C:\Program Files\Google\Chrome\Application\chrome.exe
+    company:  Google Inc.
+    product:  Google Chrome
+    filedesc: Google Chrome
+    filever:  42.0.2311.152
+    prodver:  42.0.2311.152
+Unity.exe (1956)
+    path: C:\Program Files\Unity\Editor\Unity.exe
+    company:  Unity Technologies ApS
+    product:  Unity
+    filedesc: Unity Editor
+    filever:  4.6.3.21464
+    prodver:  4.6.3.21464
+MonoDevelop.exe (3964)
+    path: C:\Program Files\Unity\MonoDevelop\bin\MonoDevelop.exe
+    company:  
+    product:  MonoDevelop
+    filedesc: MonoDevelop
+    filever:  2.6.0.0
+    prodver:  2.6.0.0
+DllHost.exe (4048)
+    path: C:\Windows\system32\DllHost.exe
+    company:  Microsoft Corporation
+    product:  Microsoft® Windows® Operating System
+    filedesc: COM Surrogate
+    filever:  6.1.7600.16385
+    prodver:  6.1.7600.16385
+adb.exe (1648)
+    path: C:\Users\CISLAB\AppData\Local\Android\sdk\platform-tools\adb.exe
+    company:  
+    product:  
+    filedesc: 
+    filever:  0.0.0.0
+    prodver:  0.0.0.0
+iexplore.exe (2852)
+    path: C:\Program Files\Internet Explorer\iexplore.exe
+    company:  Microsoft Corporation
+    product:  Internet Explorer
+    filedesc: Internet Explorer
+    filever:  11.0.9600.17801
+    prodver:  11.0.9600.17801
+SearchProtocolHost.exe (4180)
+    path: C:\Windows\system32\SearchProtocolHost.exe
+    company:  Microsoft Corporation
+    product:  Windows® Search
+    filedesc: Microsoft Windows Search Protocol Host
+    filever:  7.0.7601.17610
+    prodver:  7.0.7601.17610
+UnityBugReporter.exe (5832)
+    path: C:\Program Files\Unity\Editor\UnityBugReporter.exe
+    company:  Unity Technologies ApS
+    product:  Unity Bug Reporter
+    filedesc: Unity Bug Reporter
+    filever:  4.6.3.21464
+    prodver:  4.6.3.21464

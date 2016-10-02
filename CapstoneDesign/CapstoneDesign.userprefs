@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\AR_Script\UIMngCtrl.cs">
+    <Files>
+      <File FileName="Assets\AR_Script\ManualCtrl.cs" Line="8" Column="44" />
+      <File FileName="Assets\AR_Script\InterfaceCtrl.cs" Line="46" Column="30" />
+      <File FileName="Assets\AR_Script\UIMngCtrl.cs" Line="132" Column="39" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
